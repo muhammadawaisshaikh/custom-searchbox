@@ -1,0 +1,19 @@
+.seach-btn{
+    background: #000;
+    padding: 10px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.search-box{
+    display: none;
+    padding: 10px 0 0 0;
+}
+
+.search-box.show{
+    display: block;
+}
+
+.search-box input{
+    padding: 10px 20px;
+}
